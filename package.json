@@ -1,0 +1,16 @@
+{
+  "name": "ava-tester-app",
+  "version": "1.0.0",
+  "description": "A simple Node application to test AVA features and bugs",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/ericnograles/ava-tester-app.git",
+    "type": "git"
+  },
+  "author": "Eric Nograles <grales@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0",
+    "winston": "^2.3.0"
+  }
+}
