@@ -10,7 +10,14 @@
   "author": "Eric Nograles <grales@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.4.6",
+    "express": "^4.14.0",
+    "redis": "^2.6.3",
     "request": "^2.79.0",
     "winston": "^2.3.0"
+  },
+  "devDependencies": {
+    "ava": "https://github.com/avajs/ava.git#magic-assert",
+    "sinon": "^1.17.6"
   }
 }
